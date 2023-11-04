@@ -1,5 +1,5 @@
 
-import user from '../../data/user.json';
+import '../../data/user.json';
 import css from "../profile/profile.module.css"
 
 const Profile = (user) => (<div className={css.profile}>
