@@ -6,7 +6,6 @@ import friends from "data/friends.json";
 import FriendList from "./friendList/friendList";
 import transactions from "data/transactions.json";
 import { TransactionHistory } from "./transactionHistory/transactionHistory";
-import { ReactDOM } from "react";
 
 
 export const App = () => {
